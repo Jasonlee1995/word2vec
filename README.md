@@ -4,7 +4,7 @@
 ## 0. Develop Environment
 - Docker Image : tensorflow/tensorflow:1.13.2-gpu-py3-jupyter
 - Pytorch : Stable (1.5) - Linux - Python - CUDA (10.2)
-- Using Multi-GPU (not tested on cpu only)
+- Using Single GPU (not tested on cpu only)
 
 ## 1. Explain about Implementation
 - utils.py : Make dataloader, find top 15 nearest word based on euclidean distance or cosine similarity
