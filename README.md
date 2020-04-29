@@ -23,7 +23,7 @@
 - Explore simpler models that might not be able to represent the data as precisely as neural networks, but can possibly be trained on much more data efficiently
 
 ### 2.3. New Log-linear Models
-![Figure 2](./Figures/Figure_01.png)
+![Figure 1](./Figures/Figure_01.png)
 #### 2.3.1. Continuous Bag-of-Words Model (CBOW)
 - Network : Projection layer + Average projected vectors + Output layer
 - Predict current word based on the context
